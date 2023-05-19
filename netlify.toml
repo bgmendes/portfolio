@@ -1,4 +1,4 @@
 [[redrects]]
 from = "/*"
-to = "/portfolio.html"
+to = "/index.html"
 status = 200
