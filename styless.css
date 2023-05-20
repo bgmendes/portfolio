@@ -16,6 +16,7 @@ html {
     background-size: cover;
     background-position: 20% 50%;
     background-color: #191919;
+    overflow-x: hidden;
 }
 
 nav {
